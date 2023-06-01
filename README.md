@@ -41,9 +41,9 @@
     ```
 
 4. For all three parts of this question, imagine that you have used Entity Framework to create a database table using the following class and context. 
-    1. What will the table name be?
-    1. What will the column name(s) be?
-    1. What is the name of the database you are connecting to?
+    * What will the table name be?
+    * What will the column name(s) be?
+    * What is the name of the database you are connecting to?
 
     ```C#
     namespace BikeApp
