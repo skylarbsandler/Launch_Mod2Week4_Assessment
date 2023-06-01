@@ -78,7 +78,7 @@ We would first need to run the "add-migration" cpomand before the "update-databa
 
 Fork the Replit below, and complete the 5 LINQ exercises.  Add a link to your forked repl here: [<YOUR LINK HERE>](https://replit.com/@SkylarSandler/Mod2Week4Assessment#main.cs)
 
-[https://replit.com/@launch-team/Mod2Week4Assessment](https://replit.com/@launch-team/Mod2Week4Assessment?v=1)
+(https://replit.com/@SkylarSandler/Mod2Week4Assessment#main.cs)
 
 ### Submission
 * Submit a link to your forked repository in the Submission form provided in your slack channel.
